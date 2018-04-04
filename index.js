@@ -3,9 +3,10 @@
   
   function add(){
   var c=a+b;
+  return c;
  }
 
 add();
-return c;
+
 
 
