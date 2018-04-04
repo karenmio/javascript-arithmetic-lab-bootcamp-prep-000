@@ -1,12 +1,11 @@
-  var a=;
-  var b=11;
+var a 
+var b
   
   function add(a,b){
-  var c=a+b;
-  return c;
+   return(a+b);
  }
 
-add();
+add(a,b);
 
 
 
