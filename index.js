@@ -1,7 +1,7 @@
-  var a=200;
+  var a=;
   var b=11;
   
-  function add(){
+  function add(a,b){
   var c=a+b;
   return c;
  }
