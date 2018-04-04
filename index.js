@@ -15,7 +15,7 @@ function subtract(a,b) {
 subtract(a,b);
 
 
-function mulriply(a,b) {
+function multiply(a,b) {
   return(a*b);
 }
 
